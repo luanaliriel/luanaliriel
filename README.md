@@ -1,0 +1,7 @@
+- ✨ Olá! Eu sou a @luanaliriel
+- 👀 Gosto muito de MySQL e Back-End
+- 🌱 Tenho 22 anos e estou cursando "Análise e Desenvolvimento de Sistemas" na faculdade São Paulo Tech School 
+- 💞️ Estou sempre aberta a novos aprendizados!
+- 📫 Fale comigo ::: https://www.linkedin.com/in/luanaliriel/
+- 😄 Pronomes: she/her
+- ⚡ Fun fact: Sei inglês avançado e estou aprendendo de forma autoditata o francês
