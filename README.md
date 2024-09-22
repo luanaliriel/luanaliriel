@@ -1,7 +1,7 @@
-- ✨ Olá! Eu sou a @luanaliriel
-- 👀 Sou nova no mundo da programação, mas já gosto muito de JavaScript e do MYSql.
-- 🌱 Tenho 22 anos e estou cursando "Análise e Desenvolvimento de Sistemas" na faculdade São Paulo Tech School 
-- 💞️ Estou sempre aberta a novos aprendizados!
+- ✨ Olá! Eu sou a @luanaliriel!
+- 👀 Gosto muito de tecnologia e programação e minha missão é ser cada dia melhor!
+- 🌱 Tenho 22 anos e estou cursando "Análise e Desenvolvimento de Sistemas" na faculdade São Paulo Tech School.
+- 💞️ Estou sempre aberta a novos aprendizados :)
 - 📫 Fale comigo ::: https://www.linkedin.com/in/luanaliriel/
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Sei inglês avançado e estou aprendendo de forma autoditata o francês
