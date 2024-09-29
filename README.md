@@ -5,3 +5,5 @@
 - 📫 Fale comigo ::: https://www.linkedin.com/in/luanaliriel/
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Sei inglês avançado e estou aprendendo de forma autoditata o francês!
+
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
