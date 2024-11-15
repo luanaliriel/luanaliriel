@@ -1,4 +1,12 @@
-<h2 align="center">Hi 👋 My name is Luana!</h2>
+<h2 align="center">Olá👋 Meu nome é Luana, prazer!</h2>
+
+###
+
+<h5 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School.</h5>
+
+###
+
+<h5 align="left">Amo aprender e me desafiar cada dia mais 🩷</h5>
 
 ###
 
@@ -26,18 +34,6 @@
   <a href="https://linkedin.com/in/luanaliriel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/luanaliriel/luanaliriel/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
