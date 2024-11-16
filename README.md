@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School.</h5>
+<h5 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School.</h5>
 
 ###
 
-<h5 align="left">Amo aprender e me desafiar cada dia mais 🩷</h5>
+<h5 align="center">Amo aprender e me desafiar cada dia mais 🩷</h5>
 
 ###
 
